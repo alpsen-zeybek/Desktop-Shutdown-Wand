@@ -1,0 +1,20 @@
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop Wand.csprojAssemblyReference.cache
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop_Wand.Form1.resources
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop Wand.csproj.GenerateResource.cache
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop Wand.csproj.CoreCompileInputs.cache
+C:\Users\alpse\source\repos\Desktop Wand\bin\Debug\Desktop Shutdown Wand.exe.config
+C:\Users\alpse\source\repos\Desktop Wand\bin\Debug\Desktop Shutdown Wand.exe
+C:\Users\alpse\source\repos\Desktop Wand\bin\Debug\Desktop Shutdown Wand.pdb
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop_Shutdown_Wand.Properties.Resources.resources
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop Shutdown Wand.exe
+C:\Users\alpse\source\repos\Desktop Wand\obj\Debug\Desktop Shutdown Wand.pdb
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\bin\Debug\Desktop Shutdown Wand.exe.config
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\bin\Debug\Desktop Shutdown Wand.exe
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\bin\Debug\Desktop Shutdown Wand.pdb
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop Shutdown Wand.csprojAssemblyReference.cache
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop_Wand.Desktop_Shutdown_Wand.resources
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop_Shutdown_Wand.Properties.Resources.resources
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop Shutdown Wand.csproj.GenerateResource.cache
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop Shutdown Wand.csproj.CoreCompileInputs.cache
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop Shutdown Wand.exe
+C:\Users\alpse\source\repos\Desktop Shutdown Wand\obj\Debug\Desktop Shutdown Wand.pdb
