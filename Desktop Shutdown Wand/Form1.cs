@@ -40,10 +40,6 @@ namespace Desktop_Wand
             {
                 Timer = Convert.ToInt64(scale.Value * 3600);
             }
-            else
-            {
-
-            }
             Timer_Text.Text = "There will be a shutdown in      " + Timer.ToString() + " second(s).";
         }
 
